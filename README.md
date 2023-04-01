@@ -14,6 +14,12 @@
   <h5 align="center">Meu nome é Carlos Henrique Tonini Braga, mas todos me chamam de Carlinhos! Nasci em Curitiba e aos 16 anos me mudei para o Rio de Janeiro, onde moro atualmente e alcancei a idade de 37 anos. Durante um período da minha vida trabalhei como gamer profissional e tive a oportunidade de repŕesentar o Brasil nas Filipinas e Japão em competições de nível mundial! Apesar de NERD de carteirinha, apenas agora, aos 37 anos, comecei a estudar programação pela Trybe, após 12 anos trabalhando em restaurantes como garçom, gerente geral e gerente de delivery e marketing. Ao estudar programação, revivi o amor que sentia pelos games e não tive outra opção senão largar toda a minha vida antiga e me dedicar a área</h5>
   <div align="center">
   <br><br>
+  <h1 align='center'>Contato</h1>
+<p align='center'>Para mais informações, entre em contato comigo por meio das seguintes redes sociais:</p>
+<p align='center'>E-mail: carloshtbraga@gmail.com</p>
+<p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
+<p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
+
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
 <br></div>
