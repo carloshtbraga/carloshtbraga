@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+CARLOS+TONINI;+CLICK+HERE+TO+CHECK+MY+PORTFOLIO;+WELCOME+TO+MY+GITHUB:%29)](https://portf-lio-react-red.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+CLICK+HERE+TO+CHECK+MY+PORTFOLIO;+MY+NAME+IS+CARLOS+TONINI;+WELCOME+TO+MY+GITHUB:%29)](https://portf-lio-react-red.vercel.app/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carloshtbraga&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="carlos stats" /> 
