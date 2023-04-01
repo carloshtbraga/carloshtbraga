@@ -1,7 +1,7 @@
 <h2 align="center"><a href="https://portf-lio-react-red.vercel.app/" style="color:red">-----------------------CLICK TO CHECK MY PORTFOLIO-----------------------</a></h2><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+CARLOS+TONINI;+WELCOME+TO+MY+GITHUB+:%29)](https://portf-lio-react-red.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+CARLOS+TONINI;+WELCOME+TO+MY+GITHUB+CLICK+HERE+TO+CHECK+MY+PORTFOLIO:%29)](https://portf-lio-react-red.vercel.app/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carloshtbraga&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="carlos stats" /> 
@@ -15,8 +15,6 @@
   <h5 align="center">Meu nome é Carlos Henrique Tonini Braga, mas todos me chamam de Carlinhos! Nasci em Curitiba e aos 16 anos me mudei para o Rio de Janeiro, onde moro atualmente e alcancei a idade de 37 anos. Durante um período da minha vida trabalhei como gamer profissional e tive a oportunidade de repŕesentar o Brasil nas Filipinas e Japão em competições de nível mundial! Apesar de NERD de carteirinha, apenas agora, aos 37 anos, comecei a estudar programação pela Trybe, após 12 anos trabalhando em restaurantes como garçom, gerente geral e gerente de delivery e marketing. Ao estudar programação, revivi o amor que sentia pelos games e não tive outra opção senão largar toda a minha vida antiga e me dedicar a área</h5>
   <div align="center">
   <br><br>
-
-<br><br>
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
 <br></div>
