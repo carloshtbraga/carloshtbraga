@@ -43,7 +43,7 @@ Outros:::::::::::: <img src='https://img.shields.io/badge/Linux-FCC624?style=for
 <a align="right" href='https://www.linkedin.com/in/carloshtbraga/'><img width=18% src='https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif'></a>
 <a align="right" href='https://devs4-good.vercel.app/'><img alt='Portal Devs4good' width=20% src='https://www.kevells.com/assets/images/slider-3.gif'></a>
 <a align="right" href='https://portf-lio-react-red.vercel.app/'><img width=18% src='https://static.wixstatic.com/media/5f51ab_f9b1a2d9583b4407a0fdaf906de33f25~mv2.gif'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a align="right" href='https://www.facebook.com/carloshenrique.t.braga'><img width=16% src='https://www.gifservice.fr/img/gif-vignette-small/801aff38f329e39e083867e4865de6fe/51588-multi-media-computer-internet-facebook.gif'></a>
+<a align="right" href='https://www.linkedin.com/in/carloshtbraga/'><img width=16% src='https://www.gifservice.fr/img/gif-vignette-small/801aff38f329e39e083867e4865de6fe/51588-multi-media-computer-internet-facebook.gif'></a>
 
 
 <br>
