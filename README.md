@@ -15,18 +15,10 @@
    <h5 align="center">Sou tbm o fundador e ceo da empresa Dev4goods uma empresa sem fins lucrativos que cria websites e soluções para Ongs e projetos sociais.</h5>
   <div align="center">
   <br><br>
-  <h1 align='center'>Contato</h1>
-<p align='center'>Para mais informações, entre em contato comigo por meio das seguintes redes sociais:</p>
-<p align='center'>E-mail: carloshtbraga@gmail.com</p>
-<p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
-<p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
-
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
-<br></div>
+ </div>
 
  
-  <div style = text-align: center, margin-left: 10px>
+
 
  Fundamentos: <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
 <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
@@ -40,9 +32,18 @@
 SO-Git: <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
   <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> 
 
-</div>
+
 
  
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carloshtbraga&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
+ <h1 align='center'>Contato</h1>
+<p align='center'>Para mais informações, entre em contato comigo por meio das seguintes redes sociais:</p>
+<p align='center'>E-mail: carloshtbraga@gmail.com</p>
+<p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
+<p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
+<br></div>
