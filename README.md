@@ -38,9 +38,9 @@ Outros:::::::::::: <img src='https://img.shields.io/badge/Linux-FCC624?style=for
  <h1 align='center'>Contato</h1>
 <p align='center'>Para mais informações, entre em contato comigo por meio das seguintes redes sociais:</p>
 <p align='center'>E-mail: carloshtbraga@gmail.com</p>
-<p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
+<a href='https://www.linkedin.com/in/carloshtbraga/'><img width=180px src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
 <p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
 
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
+<p align="center" target='_blank'><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
 <br></div>
