@@ -25,7 +25,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
 <br></div>
 
- ![Snake animation](https://github.com/carloshtbraga/carloshtbraga/blob/output/github-contribution-grid-snake.svg)
  
   <div style = text-align: center, margin-left: 10px>
 
