@@ -38,11 +38,12 @@ Outros:::::::::::: <img src='https://img.shields.io/badge/Linux-FCC624?style=for
    <br><br>
 <p align='center'>Você pode me achar tbm no Linkedin, Instagram, Portal Devs4Good ou no meu Portfolio =)</p>
 
-<a href='https://www.linkedin.com/in/carloshtbraga/'><img width=180px src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
-<a align="right" href='https://www.instagram.com/carlinhostonini/'><img width=160px src='https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif'></a>
-<a align="right" href='https://devs4-good.vercel.app/'><img alt='Portal Devs4good' width=190px src='https://www.kevells.com/assets/images/slider-3.gif'></a>
-<a align="right" href='https://portf-lio-react-red.vercel.app/'><img width=190px src='https://static.wixstatic.com/media/5f51ab_f9b1a2d9583b4407a0fdaf906de33f25~mv2.gif'></a>
-<a align="right" href='https://www.facebook.com/carloshenrique.t.braga'><img width=150px src='https://www.gifservice.fr/img/gif-vignette-small/801aff38f329e39e083867e4865de6fe/51588-multi-media-computer-internet-facebook.gif'></a>
+<a href='https://www.linkedin.com/in/carloshtbraga/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
+<a align="right" href='https://www.instagram.com/carlinhostonini/'><img width=18% src='https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif'></a>
+<a align="right" href='https://devs4-good.vercel.app/'><img alt='Portal Devs4good' width=20% src='https://www.kevells.com/assets/images/slider-3.gif'></a>
+<a align="right" href='https://portf-lio-react-red.vercel.app/'><img width=18% src='https://static.wixstatic.com/media/5f51ab_f9b1a2d9583b4407a0fdaf906de33f25~mv2.gif'></a>
+<a align="right" href='https://www.facebook.com/carloshenrique.t.braga'><img width=19% src='https://www.gifservice.fr/img/gif-vignette-small/801aff38f329e39e083867e4865de6fe/51588-multi-media-computer-internet-facebook.gif'></a>
+
 
 <br>
 <p align='center'>E-mail: carloshtbraga@gmail.com</p>
