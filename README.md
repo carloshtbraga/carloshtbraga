@@ -12,7 +12,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center"> E aí, beleza? Seja bem vindo ao meu GitHUB</h1>
   <h5 align="center">Meu nome é Carlos Henrique Tonini Braga, mas todos me chamam de Carlinhos! Nasci em Curitiba e aos 16 anos me mudei para o Rio de Janeiro, onde moro atualmente e alcancei a idade de 37 anos. Durante um período da minha vida trabalhei como gamer profissional e tive a oportunidade de repŕesentar o Brasil nas Filipinas e Japão em competições de nível mundial! Apesar de NERD de carteirinha, apenas agora, aos 37 anos, comecei a estudar programação pela Trybe , após 12 anos trabalhando em restaurantes como garçom, gerente geral e gerente de delivery e marketing. Ao estudar programação, revivi o amor que sentia pelos games e não tive outra opção senão largar toda a minha vida antiga e me dedicar a área</h5>
-   <h5 align="center">Sou tbm o fundador e ceo da empresa <a href='https://devs4-good.vercel.app/'>Dev4goods</a> uma empresa sem fins lucrativos que cria websites e soluções para Ongs e projetos sociais.</h5>
+   <h5 align="center">Sou tbm o fundador e ceo da empresa uma empresa sem fins lucrativos <a href='https://devs4-good.vercel.app/'>Dev4goods</a> que cria websites e soluções para Ongs e projetos sociais.</h5>
+   
   <div align="center">
   <br><br>
  </div>
